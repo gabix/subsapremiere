@@ -8,6 +8,13 @@ body {
     margin-bottom: 20px;
 }
 
+.dispNone {
+    display: none;
+}
+.dispBlock {
+    display: block;
+}
+
 /*
 .contenido {
     margin-left: auto;
